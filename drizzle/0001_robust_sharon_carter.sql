@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX `fiscal_documents_hash_idx` ON `fiscal_documents` (`original_hash`);

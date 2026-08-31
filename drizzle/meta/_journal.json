@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1786368419793,
+      "tag": "0000_classy_doctor_faustus",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1786368872751,
+      "tag": "0001_robust_sharon_carter",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1786714324384,
+      "tag": "0002_married_nuke",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1786717197527,
+      "tag": "0003_sweet_brood",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1786726887185,
+      "tag": "0004_shallow_shockwave",
+      "breakpoints": true
+    }
+  ]
+}
